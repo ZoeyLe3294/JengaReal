@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="right_side_width">225dp</dimen>
+    <dimen name="padding">30dp</dimen>
+    <dimen name="child_button_width">90dp</dimen>
+    <dimen name="child_button_height">30dp</dimen>
+    <dimen name="next_button">50dp</dimen>
+    <dimen name="text_button">15dp</dimen>
+</resources>
